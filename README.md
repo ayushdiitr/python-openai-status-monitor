@@ -16,3 +16,5 @@ uv run python -m app.main
 
 ### Output:
 ![Output](image.png)
+
+![Deployed output](deployed.png)
